@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Stian
 - 👀 Interested in cloud native and open source software
 - 👨‍💻 Mostly use Go for work
-- 🌱 Currently learning Rust in my free time
 - 🇯🇵 Based in Tokyo
 - 🏢 Working [@Intility](https://github.com/Intility/)
 - 🤴 Owner of [Froystein Consulting Co., Ltd](https://froystein.jp/)
