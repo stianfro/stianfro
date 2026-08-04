@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Stian
-- 👀 Interested in cloud native and open source software
-- 👨‍💻 Mostly use Go for work
-- 🇯🇵 Based in Tokyo
-- 🏢 Working [@Intility](https://github.com/Intility/)
-- 🤴 Owner of [Froystein Consulting Co., Ltd](https://froystein.jp/)
-- 💬 Fluent in Norwegian, English and Japanese
+- Stian Frøystein
+- SRE Lead @ [Intility](https://github.com/Intility/)
+- Owner @ [Froystein Consulting Co., Ltd](https://froystein.jp/)
 
 <!---
 stianfro/stianfro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
